@@ -6,6 +6,3 @@ projects:
   - redis-objects
   - ohm
   - redis_orm
-  - acts_as_hashish
-  - redis-aid
-  - redis-attrs
