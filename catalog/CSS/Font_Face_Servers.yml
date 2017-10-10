@@ -1,6 +1,0 @@
-name: Font-Face Servers
-description:
-projects:
-  - garrickvanburen/Fontue
-  - fistface
-  - rack-fontserve
