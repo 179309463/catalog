@@ -3,14 +3,5 @@ description:
 projects:
   - enumerize
   - simple_enum
-  - enumerated_attribute
-  - classy_enum
-  - active_enum
   - enumerate_it
-  - enum_column3
-  - power_enum
-  - enumerate_by
   - enumify
-  - attribute_choices
-  - const_enum
-  - easy_attributes
