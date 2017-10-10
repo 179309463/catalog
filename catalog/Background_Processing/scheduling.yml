@@ -4,7 +4,3 @@ projects:
   - whenever
   - rufus-scheduler
   - resque-scheduler
-  - clockwork
-  - latimes/craken
-  - Swirrl/Taskit
-  - recurrent
