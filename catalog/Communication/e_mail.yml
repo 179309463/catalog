@@ -3,8 +3,3 @@ description:
 projects:
   - actionmailer
   - mail
-  - pony
-  - tmail
-  - capistrano_mailer
-  - sendgrid-rails
-  - mailit
