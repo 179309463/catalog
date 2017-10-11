@@ -1,10 +1,4 @@
 name: Terminal Coloring
 description:
 projects:
-  - term-ansicolor
-  - ansi
-  - colorize
-  - colored
-  - rainbow
   - lolcat
-  - paint
