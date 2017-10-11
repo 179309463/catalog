@@ -1,8 +1,0 @@
-name: Ruby Core Extensions
-description:
-projects:
-  - activesupport
-  - hashie
-  - docile
-  - powerpack
-  - facets
